@@ -1,25 +1,5 @@
-# README
+The crypto_wallet application aims to show the simple creation of a Rails project, with simple cruds using associations.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#How to run the project
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# rails-crypto-wallet
+To run the project on your terminal type "rails s"
